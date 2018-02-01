@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name = "lblsHBias">0.5</dimen>
+	<dimen name = "lblBienvenidoVBias">0.1</dimen>
+	<dimen name = "lblBienvenidoTxSize">80sp</dimen>
+	<dimen name = "lblBienvenidoWidth">1000dp</dimen>
+	<dimen name = "lblBienvenidoHeight">200dp</dimen>
+	<dimen name = "btnEntrarVBias">0.4</dimen>
+	<dimen name = "btnEntrarWidth">300dp</dimen>
+	<dimen name = "btnEntrarHeight">110dp</dimen>
+	<dimen name = "btnEntrarTxSize">40sp</dimen>
+</resources>
