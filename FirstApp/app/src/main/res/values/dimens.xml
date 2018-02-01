@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name = "lblsHBias">0.5</dimen>
+	<dimen name = "lblBienvenidoVBias">0.1</dimen>
+	<dimen name = "btnEntrarVBias">0.4</dimen>
+</resources>
